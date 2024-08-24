@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Portfolio-New-one/static/css/main.5e5933e3.css",
-    "main.js": "/Portfolio-New-one/static/js/main.ee5fa1b4.js",
+    "main.js": "/Portfolio-New-one/static/js/main.cd12b304.js",
     "static/js/453.d22c673f.chunk.js": "/Portfolio-New-one/static/js/453.d22c673f.chunk.js",
     "static/media/mine.jpeg": "/Portfolio-New-one/static/media/mine.3566c49027f8b213a3e8.jpeg",
     "static/media/netflix.png": "/Portfolio-New-one/static/media/netflix.f0010df3b82dd4f1266d.png",
-    "static/media/zentraveller (1).png": "/Portfolio-New-one/static/media/zentraveller (1).08449a6205a34cf98cec.png",
+    "static/media/booking.png": "/Portfolio-New-one/static/media/booking.393d1c5853ec559e8411.png",
     "static/media/porthtml.png": "/Portfolio-New-one/static/media/porthtml.ac876228ab67eec9a1a7.png",
     "static/media/game.png": "/Portfolio-New-one/static/media/game.fe571b791eb50d4fa39d.png",
     "static/media/watchhub.png": "/Portfolio-New-one/static/media/watchhub.b20d39122dba70474f3e.png",
+    "static/media/carrental.png": "/Portfolio-New-one/static/media/carrental.5c3f35bd70dc8a6fe908.png",
     "static/media/computershop.png": "/Portfolio-New-one/static/media/computershop.55ae2204a999482ed8ee.png",
     "static/media/hostel.png": "/Portfolio-New-one/static/media/hostel.6ecb2a101a4b21856238.png",
     "static/media/reactport.png": "/Portfolio-New-one/static/media/reactport.ba0a6210346d8039339c.png",
     "static/media/service01.png": "/Portfolio-New-one/static/media/service01.d3c4e5bb6733a24990f3.png",
-    "static/media/google.png": "/Portfolio-New-one/static/media/google.52969ff6b4d437aeba6f.png",
     "index.html": "/Portfolio-New-one/index.html",
     "main.5e5933e3.css.map": "/Portfolio-New-one/static/css/main.5e5933e3.css.map",
-    "main.ee5fa1b4.js.map": "/Portfolio-New-one/static/js/main.ee5fa1b4.js.map",
+    "main.cd12b304.js.map": "/Portfolio-New-one/static/js/main.cd12b304.js.map",
     "453.d22c673f.chunk.js.map": "/Portfolio-New-one/static/js/453.d22c673f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e5933e3.css",
-    "static/js/main.ee5fa1b4.js"
+    "static/js/main.cd12b304.js"
   ]
 }
