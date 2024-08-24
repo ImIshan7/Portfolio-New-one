@@ -17,10 +17,10 @@ import tomcat from '../images/tecnology/tomcat.png';
 import mysql from '../images/tecnology/mysql.png';
 import vscode from '../images/tecnology/vscode.png';
 import watchhub from '../images/projects/watchhub.png';
-import traveller from '../images/projects/zentraveller (1).png';
+import traveller from '../images/projects/booking.png';
 import computershop from '../images/projects/computershop.png';
 import game from '../images/projects/game.png';
-import google from '../images/projects/google.png';
+import google from '../images/projects/carrental.png';
 import hostel from '../images/projects/hostel.png';
 import netflix from '../images/projects/netflix.png';
 import porthtml from '../images/projects/porthtml.png';
@@ -464,13 +464,13 @@ export class Home extends Component {
                             <div className="triangle"></div>
                             <div className="flex flex-col justify-between px-4 py-6 bg-white border border-gray-400">
                                 <div>
-                                    <a href="https://github.com/ImIshan7/Zen-Traveler-Blog-React-Application.git"
+                                    <a href="https://github.com/ImIshan7/Zen-Travel-System.git"
                                        className="block mb-4 text-2xl text-black font-mono font-bold  leading-tight hover:underline hover:text-blue-600">
-                                        Zen Traveller Blog React Web Application
+                                        Zen Traveller React Web Application
                                     </a>
                                     <p className="mb-4">
-                                        This is a Web Blog application for travellers. This is a full stack application
-                                        Using React,Tailwind CSS,IntelliJ Idea Technologies.
+                                        This is a full stack web application using react,tailwind css,node js,mongodb
+                                        and intellij idea technologies.
                                     </p>
                                 </div>
                             </div>
@@ -504,13 +504,13 @@ export class Home extends Component {
                                 <div className="triangle"></div>
                                 <div className="flex flex-col justify-between px-4 py-6 bg-white border border-gray-400">
                                     <div>
-                                        <a href="https://github.com/ImIshan7/Google-Clone-React-Application.git"
+                                        <a href="https://github.com/ImIshan7/Zen-Easy-Car-Rent.git"
                                            className="block mb-4 text-2xl text-black font-mono font-bold  leading-tight hover:underline hover:text-blue-600">
-                                            Google Clone React Web Application
+                                            Car Rental Web Application
                                         </a>
                                         <p className="mb-4">
-                                            This is a Web application for searching. This is a full stack application
-                                            Using React,Tailwind CSS,IntelliJ Idea Technologies.
+                                            This is Spring Boot application for car rental. This is a full stack application
+                                            using spring,HTML,Css,Java Script,MY SQL,Hibernate and Intellij Idea Technologies.
                                         </p>
                                     </div>
                                 </div>
